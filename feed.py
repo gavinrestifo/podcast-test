@@ -1,3 +1,7 @@
+'''
+This code was created as a part of the LinkedIn Learning Course: Practical GitHub Actions
+'''
+
 import yaml
 import xml.etree.ElementTree as xml_tree
 
